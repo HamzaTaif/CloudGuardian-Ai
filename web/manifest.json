@@ -1,0 +1,12 @@
+{
+  "name": "CloudGuardian AI",
+  "short_name": "CloudGuardian",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0A0F1E",
+  "theme_color": "#3B82F6",
+  "description": "AI-powered Cloud Operations Assistant",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": []
+}
